@@ -120,14 +120,32 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     36. What is the command we would use to push our repo up to github? 
             git push origin master would be the command to use to repo our work in github
     
-    37. Walk me through Lambda's git flow. 
+    37. Walk me through Lambda's git flow
+        Step.1 go to this codepen https://codepen.io/BritHemming/pen/eYYEoPa?editors=1100 and fork it
+        Step.2 Complete both CSS and HTML requirements before we move on.
+        Step.3 repo the work from Lambda's Git FLow WEb Development project
+        step.4 clone the project
+        step.5  Create a branch git checkout -b 'firstName-lastName'
+        step.6 Add a file to the project called your "FirstName-yourLastName".txt
+        step.7 Run your usual git commands for adding/committing and pushing (git add .),()()
+        step.8 Create a Pull-Request to submit your work
+        Step.9 Be sure to push to your branch!
+        Step.10 Use your own student fork as the base (compare across forks, base-fork -> main)
 
 Stretch Questions
 
     1. What is the difference between an inline element and a block element?
-    2. What happens when an element is positioned absolutely? 
-    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+        A block-level HTML element will always create a new line after the closing tag, while a inline HTML element will not
+
+    2. What happens when an element is positioned absolutely?
+        It is placed basically in its own seperate layer away from everyhtiung else
+
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width?
+        you can have the imag einside a container then from there you can set a width and heigght to the image inside the conatainer to cahnge with width of the photo without taking up too much space 
+
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+    
+    
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
 
 
